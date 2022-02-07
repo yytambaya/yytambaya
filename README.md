@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yytambaya
 - 👀 I’m interested in building side projects and startups
 - 🌱 I’m currently building cool side projects
-- 💞️ I’m looking to a job
+- 💞️ I’m looking for a job
 - 📫 How to reach me: yytyakubu@gmail.com
 
 <!---
